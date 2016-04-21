@@ -22,6 +22,9 @@ public class AAA extends ComponentTagSupport{
 	public Component getBean(ValueStack arg0, HttpServletRequest arg1,
 			HttpServletResponse arg2) {
 		// TODO Auto-generated method stub
+		
+		System.out.println("00000000000");
+		
 		return null;
 	}
 
